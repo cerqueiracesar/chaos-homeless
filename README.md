@@ -1,6 +1,9 @@
 homelessness-aid-multiagent-system
+
 🤝 Um Sistema Multiagente para Apoio e Informação a Pessoas em Situação de Rua
+
 🌟 Sobre o Projeto
+
 Este projeto propõe e desenvolve um Sistema Multiagente (SMA) inovador focado em fornecer informações cruciais e personalizadas para pessoas em situação de rua. Acreditamos que o acesso rápido e preciso a dados sobre abrigos, alimentação, saúde, oportunidades de emprego e outros recursos essenciais pode fazer uma diferença significativa na vida de indivíduos vulneráveis.
 
 O objetivo é criar uma rede inteligente de agentes de software que colaborem para mapear recursos, compreender as necessidades individuais, gerar recomendações eficazes e alertar sobre condições importantes, tudo isso visando auxiliar de forma mais humana e eficiente.
@@ -28,7 +31,7 @@ Simultaneamente, o Agente de Alertas e Clima (AAC) pode estar monitorando uma on
 O ARE processa todas essas informações e gera uma lista de recomendações otimizadas.
 O AIN recebe essas recomendações e as apresenta à pessoa de forma clara, com detalhes como endereço, horários e como chegar.
 🚀 Tecnologias Utilizadas (Exemplos)
-Embora o projeto ainda esteja em fase conceitual para este README, as tecnologias potenciais para a implementação incluem:
+Embora o projeto ainda esteja em fase conceitual, as tecnologias potenciais para a implementação incluem:
 
 Linguagem de Programação: Python (para desenvolvimento dos agentes)
 Frameworks Web: Flask / FastAPI (para APIs de comunicação entre agentes)
