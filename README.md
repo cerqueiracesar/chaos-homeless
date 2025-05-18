@@ -1,3 +1,5 @@
+![Gemini_Generated_Image_5atoqc5atoqc5ato](https://github.com/user-attachments/assets/2e7e4db7-094d-45fa-807b-f124800ab13f)
+
 homelessness-aid-multiagent-system
 
 🤝 Um Sistema Multiagente para Apoio e Informação a Pessoas em Situação de Rua
