@@ -1,7 +1,3 @@
-Com certeza! Um README.md bem elaborado é crucial para qualquer projeto no GitHub. Ele serve como o cartão de visitas do seu repositório, explicando o que é o projeto, como ele funciona e como outras pessoas podem usá-lo ou contribuir.
-
-Com base na nossa conversa sobre o sistema multiagente para ajudar pessoas em situação de rua, preparei um README que você pode adaptar.
-
 homelessness-aid-multiagent-system
 🤝 Um Sistema Multiagente para Apoio e Informação a Pessoas em Situação de Rua
 🌟 Sobre o Projeto
